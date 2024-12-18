@@ -1,0 +1,50 @@
+Script started on 2023-09-07 10:49:53-04:00 [TERM="xterm" TTY="/dev/pts/5" COLUMNS="80" LINES="24"]
+[?2004h]0;tur26337@cis-lclient04: ~/lab2tur26337@cis-lclient04:~/lab2$ ./a.out
+[?2004lMILES REIMBURSMENT
+This program will find out how many miles you travelled and how much money you owe
+Enter your starting miles 73 5342.8
+Enter your final miles 78914.2
+Enter the money you were reimbursed per mile in decimals.  0.45
+Your miles traveled in total is 3571.400 . 
+Your amount if you drove with the standard rate is 1249.990 . 
+The mount you are supposed to be reimbursed with in your custom amount 1607.130 . 
+[?2004h]0;tur26337@cis-lclient04: ~/lab2tur26337@cis-lclient04:~/lab2$ ./a.out
+[?2004lMILES REIMBURSMENT
+This program will find out how many miles you travelled and how much money you owe
+Enter your starting miles 5881.5
+Enter your final miles 6132.0
+Enter the money you were reimbursed per mile in decimals.  0.85
+Your miles traveled in total is 250.500 . 
+Your amount if you drove with the standard rate is 87.675 . 
+The mount you are supposed to be reimbursed with in your custom amount 212.925 . 
+[?2004h]0;tur26337@cis-lclient04: ~/lab2tur26337@cis-lclient04:~/lab2$ ./a.out
+[?2004lMILES REIMBURSMENT
+This program will find out how many miles you travelled and how much money you owe
+Enter your starting miles 103494.1
+Enter your final miles 104 5501.6
+Enter the money you were reimbursed per mile in decimals.  0.40
+Your miles traveled in total is 2007.500 . 
+Your amount if you drove with the standard rate is 702.625 . 
+The mount you are supposed to be reimbursed with in your custom amount 803.000 . 
+[?2004h]0;tur26337@cis-lclient04: ~/lab2tur26337@cis-lclient04:~/lab2$ ./a.out
+[?2004lMILES REIMBURSMENT
+This program will find out how many miles you travelled and how much money you owe
+Enter your starting miles 6000000   0.0
+Enter your final miles 7000000.0
+Enter the money you were reimbursed per mile in decimals.  0.56
+Your miles traveled in total is 6940000.000 . 
+Your amount if you drove with the standard rate is 2429000.000 . 
+The mount you are supposed to be reimbursed with in your custom amount 3886400.000 . 
+[?2004h]0;tur26337@cis-lclient04: ~/lab2tur26337@cis-lclient04:~/lab2$ ./a.out
+[?2004lMILES REIMBURSMENT
+This program will find out how many miles you travelled and how much money you owe
+Enter your starting miles 5960
+Enter your final miles 18234
+Enter the money you were reimbursed per mile in decimals.  0.78
+Your miles traveled in total is 12274.000 . 
+Your amount if you drove with the standard rate is 4295.900 . 
+The mount you are supposed to be reimbursed with in your custom amount 9573.720 . 
+[?2004h]0;tur26337@cis-lclient04: ~/lab2tur26337@cis-lclient04:~/lab2$ exit
+[?2004lexit
+
+Script done on 2023-09-07 10:52:19-04:00 [COMMAND_EXIT_CODE="0"]
